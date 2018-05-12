@@ -1,0 +1,42 @@
+_repo: Annals-of-a-Fortress_41426
+_version: 0.1.0
+alternative_title: Histoire d'une forteresse. English
+contributor:
+  translator:
+    agent_name: Bucknall, Benjamin
+    birthdate: 1833
+    deathdate: 1895
+    gutenberg_agent_id: '41177'
+    url: http://www.gutenberg.org/2009/agents/41177
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viollet-le-Duc, Eugène-Emmanuel
+    aliases:
+    - Viollet-le-Duc, E. (Eugène)
+    - Viollet-le-Duc, Eugene-Emmanuel
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '8223'
+    url: http://www.gutenberg.org/2009/agents/8223
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+    - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortification -- France -- History'
+- !lcsh 'Siege warfare -- History'
+- !lcc 'UG'
+- !lcsh 'Fortification -- History'
+title: Annals of a Fortress
+url: http://www.gutenberg.org/ebooks/41426
